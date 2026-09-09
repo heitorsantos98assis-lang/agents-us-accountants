@@ -1,6 +1,6 @@
 # 54-business-dissolution-final-returns-1120-1065 — Claude Code Agent
 
-A specialist subagent from the **57 Agents for US Accountants** bundle (Bravy / ASV Digital).
+A specialist subagent from the **57 Agents for US Accountants** bundle (HL).
 
 ## What this agent does
 
@@ -69,4 +69,4 @@ rm ~/.claude/agents/54-business-dissolution-final-returns-1120-1065.md
 
 ---
 
-© Bravy / ASV Digital — 57 Agents for US Accountants
+© HL — 57 Agents for US Accountants

@@ -1,6 +1,6 @@
 # 27-firm-data-security-irs-pub-4557-wisp — Claude Code Agent
 
-A specialist subagent from the **57 Agents for US Accountants** bundle (Bravy / ASV Digital).
+A specialist subagent from the **57 Agents for US Accountants** bundle (HL).
 
 ## What this agent does
 
@@ -69,4 +69,4 @@ rm ~/.claude/agents/27-firm-data-security-irs-pub-4557-wisp.md
 
 ---
 
-© Bravy / ASV Digital — 57 Agents for US Accountants
+© HL — 57 Agents for US Accountants

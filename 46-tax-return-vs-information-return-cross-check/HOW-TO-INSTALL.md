@@ -1,6 +1,6 @@
 # 46-tax-return-vs-information-return-cross-check — Claude Code Agent
 
-A specialist subagent from the **57 Agents for US Accountants** bundle (Bravy / ASV Digital).
+A specialist subagent from the **57 Agents for US Accountants** bundle (HL).
 
 ## What this agent does
 
@@ -69,4 +69,4 @@ rm ~/.claude/agents/46-tax-return-vs-information-return-cross-check.md
 
 ---
 
-© Bravy / ASV Digital — 57 Agents for US Accountants
+© HL — 57 Agents for US Accountants

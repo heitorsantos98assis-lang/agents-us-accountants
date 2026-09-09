@@ -1,6 +1,6 @@
 # 29-federal-excise-form-720-pcori-fuel-tobacco — Claude Code Agent
 
-A specialist subagent from the **57 Agents for US Accountants** bundle (Bravy / ASV Digital).
+A specialist subagent from the **57 Agents for US Accountants** bundle (HL).
 
 ## What this agent does
 
@@ -69,4 +69,4 @@ rm ~/.claude/agents/29-federal-excise-form-720-pcori-fuel-tobacco.md
 
 ---
 
-© Bravy / ASV Digital — 57 Agents for US Accountants
+© HL — 57 Agents for US Accountants

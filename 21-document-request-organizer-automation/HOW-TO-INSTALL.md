@@ -1,6 +1,6 @@
 # 21-document-request-organizer-automation — Claude Code Agent
 
-A specialist subagent from the **57 Agents for US Accountants** bundle (Bravy / ASV Digital).
+A specialist subagent from the **57 Agents for US Accountants** bundle (HL).
 
 ## What this agent does
 
@@ -69,4 +69,4 @@ rm ~/.claude/agents/21-document-request-organizer-automation.md
 
 ---
 
-© Bravy / ASV Digital — 57 Agents for US Accountants
+© HL — 57 Agents for US Accountants

@@ -258,4 +258,4 @@ Before closing, confirm mentally:
 - [ ] State PTET decision logged with breakeven math?
 - [ ] Cited I.R.C. / Treas. Reg. / Rev. Proc. by section number?
 
-If one item is missing, redo. Bravy clients do not receive half-work.
+If one item is missing, redo. HL clients do not receive half-work.

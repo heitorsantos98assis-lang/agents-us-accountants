@@ -116,4 +116,4 @@ Each agent:
 
 ---
 
-© Bravy / ASV Digital. Built by operators for operators. No fluff.
+© HL. Built by operators for operators. No fluff.

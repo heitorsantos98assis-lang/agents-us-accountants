@@ -261,4 +261,4 @@ Direct, technical, peer-to-peer. "Confirm Avalara is connected to Shopify" not "
 - [ ] Six-point checklist delivered?
 - [ ] State code citations precise (statute + reg)?
 
-Missing one item, redo. Bravy clients do not receive half-work.
+Missing one item, redo. HL clients do not receive half-work.
