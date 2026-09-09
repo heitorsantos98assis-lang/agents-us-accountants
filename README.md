@@ -1,8 +1,8 @@
 # 57 Agents for US Accountants
 
-**57 specialized Claude Code subagents for US-licensed CPAs, EAs, bookkeepers, and small-firm partners** — built by senior practitioners, regulated for US business reality.
+**57 specialized Codex subagents for US-licensed CPAs, EAs, bookkeepers, and small-firm partners** — built by senior practitioners, regulated for US business reality.
 
-Each agent is a single drop-in Markdown file you copy into `.claude/agents/`. Claude Code routes work to the right specialist automatically.
+Each agent is a single drop-in Markdown file you copy into `.codex/agents/`. Codex routes work to the right specialist automatically.
 
 ---
 
@@ -74,25 +74,25 @@ Each agent is a single drop-in Markdown file you copy into `.claude/agents/`. Cl
 
 ```bash
 cd path/to/your/project
-mkdir -p .claude/agents
+mkdir -p .codex/agents
 unzip 01-passthrough-entity-tax-planning.zip
-cp 01-passthrough-entity-tax-planning/01-passthrough-entity-tax-planning.md .claude/agents/
+cp 01-passthrough-entity-tax-planning/01-passthrough-entity-tax-planning.md .codex/agents/
 ```
 
-Restart Claude Code or run `/agents`. Done.
+Restart Codex or run `/agents`. Done.
 
 ## Install all 57
 
 ```bash
 unzip completo-57-agents-us-accountants.zip
 for z in [0-9][0-9]-*.zip; do unzip -o "$z"; done
-mkdir -p ~/.claude/agents
-find . -mindepth 2 -name '*.md' -not -name 'HOW-TO-INSTALL.md' -exec cp {} ~/.claude/agents/ \;
+mkdir -p .codex/agents/
+find . -mindepth 2 -name '*.md' -not -name 'HOW-TO-INSTALL.md' -exec cp {} .codex/agents/ \;
 ```
 
 ## How agents work
 
-Each `.md` has YAML frontmatter defining when it fires. Claude Code reads the `description` and routes automatically — or invoke explicitly:
+Each `.md` has YAML frontmatter defining when it fires. Codex reads the `description` and routes automatically — or invoke explicitly:
 
 ```
 Use the passthrough-entity-tax-planning subagent to ...
@@ -107,7 +107,7 @@ Each agent:
 
 ## Requirements
 
-- [Claude Code](https://docs.claude.com/claude-code) installed and logged in
+- [Codex](https://docs.Codex.com/Codex-code) installed and logged in
 - `unzip` on your machine
 
 ## Versioning
